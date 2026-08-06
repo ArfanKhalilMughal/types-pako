@@ -1,5 +1,8 @@
 # @zklogic/types-pako
 
+[![CI](https://github.com/ArfanKhalilMughal/types-pako/actions/workflows/ci.yml/badge.svg?branch=main&event=push)](https://github.com/ArfanKhalilMughal/types-pako/actions/workflows/ci.yml)
+[![npm version](https://img.shields.io/npm/v/@zklogic/types-pako.svg)](https://www.npmjs.com/package/@zklogic/types-pako)
+
 TypeScript definitions for [pako](https://github.com/nodeca/pako),
 forked from `@types/pako` and maintained by zklogic.
 
