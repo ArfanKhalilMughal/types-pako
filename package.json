@@ -1,0 +1,22 @@
+{
+  "name": "@zklogic/types-pako",
+  "version": "2.0.4-zklogic.1",
+  "description": "TypeScript definitions for pako ^(zklogic-maintained fork of @types/pako^)",
+  "main": "",
+  "types": "index.d.ts",
+  "license": "MIT",
+  "scripts": {
+    "typecheck": "tsc --noEmit index.d.ts"
+  },
+  "devDependencies": {
+    "typescript": "^5.7.3"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/ArfanKhalilMughal/types-pako.git"
+  },
+  "publishConfig": {
+    "access": "public",
+    "registry": "https://registry.npmjs.org/"
+  }
+}
